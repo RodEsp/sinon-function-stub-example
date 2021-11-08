@@ -1,0 +1,13 @@
+{
+  "recursive": true,
+  "reporter": "spec",
+  "require": [
+    "test/init.js",
+    "ts-node/register",
+    "source-map-support/register"
+  ],
+  "timeout": 0,
+  "watch-extensions": [
+    "ts"
+  ]
+}
